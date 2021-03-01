@@ -1,2 +1,2 @@
-# basics
-here are illimitably basic projets
+# Basics
+Here are illimitably basic projets
